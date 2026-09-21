@@ -1,4 +1,4 @@
-# 01 — First 5 MinuteD 
+# 01 — First 5 Minutes
 
 > **You have a low-privileged Linux shell. What should you do first?**
 
